@@ -4,6 +4,8 @@ This repository is a distribution of [Fomantic-UI](https://fomantic-ui.com) as L
 
 You can view more on Fomantic UI at [fomantic-ui.com](https://fomantic-ui.com).
 
+If you have any issues please use the main [Fomantic-UI repositroy](https://github.com/fomantic/Fomantic-UI).
+
 ## Installation
 
 ```bash
